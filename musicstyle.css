@@ -1,0 +1,29 @@
+.menu-bar
+{
+	background: brown;
+	text-align: center;
+}
+.menu-bar ul
+{
+	color:white;
+	display: inline-flex;
+	list-style: none;
+}
+.menu-bar ul li
+{
+	width: 150px;
+	margin: 20px;
+	padding: 20px;
+}
+.new ,.menu-bar ul li:hover
+{
+	background: #F0E1B9FF;
+	border-radius: 3px;
+}
+h2{
+	text-decoration: underline;
+}
+.new{
+	padding: 20px;
+	border:15px solid brown;
+}
